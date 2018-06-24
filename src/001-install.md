@@ -32,7 +32,11 @@ cd my-project
 open -a Simulator
 flutter run
 ```
-
+6. hot reload:
+```conf
+1. In termianl
+2. input `R`
+```
 
 ## resouces:
 + https://flutterchina.club/setup-macos/
