@@ -1,5 +1,5 @@
 # install
-
+> Only for IOS verions.(Android not test)
 
 ## commands:
 1. clone code:
@@ -16,6 +16,22 @@ export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn;
 export PATH=`pwd`/flutter/bin:$PATH;
 ```
 
+3. flutter doctor:
+```conf
+# 运行以下命令查看是否需要安装其它依赖项来完成安装：
+flutter doctor
+```
+4. create a project
+```shell
+flutter create my-project
+```
+
+5. open a simulater & run project
+```shell
+cd my-project
+open -a Simulator
+flutter run
+```
 
 
 ## resouces:
