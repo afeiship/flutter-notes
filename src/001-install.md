@@ -40,3 +40,4 @@ flutter run
 
 ## resouces:
 + https://flutterchina.club/setup-macos/
++ https://yq.aliyun.com/articles/547695
